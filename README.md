@@ -1,8 +1,7 @@
 Medical Day Care Database (Customer Appointment Satisfaction and Reports)
 
-Project Overview
+Project Overview:
 
-git remote add origin
 Purpose
 
 The purpose of this database is to:
